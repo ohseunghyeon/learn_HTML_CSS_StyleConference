@@ -478,7 +478,7 @@ tbody td:first-of-type {
 tbody td:last-of-type {
   padding-left: 15px;
 }
-tbody yd:only-of-type {
+tbody td:only-of-type {
   padding-left: 0;
   padding-right: 0;
 }
